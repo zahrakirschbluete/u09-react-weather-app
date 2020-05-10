@@ -5,7 +5,7 @@ export const API_ICON_URL = 'http://openweathermap.org/img/wn';
 
 export const buildQueryString = (
   endpoint: string,
-  params: any = {},
+  params: any = {}
 ): string => {
   // Add appid to params object
   params.appid = API_KEY;

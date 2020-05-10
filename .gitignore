@@ -24,3 +24,4 @@ yarn-error.log*
 
 default.profraw
 src/API_KEY.tsx
+.env-cmdrc
