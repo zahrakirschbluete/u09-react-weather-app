@@ -1,4 +1,4 @@
-import { API_KEY } from '../../API_KEY';
+// import { API_KEY } from '../../API_KEY';
 
 const API_URL = 'https://api.openweathermap.org/data/2.5';
 export const API_ICON_URL = 'http://openweathermap.org/img/wn';
